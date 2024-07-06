@@ -74,7 +74,7 @@ https://github.com/Rohit3598/To-Do-list--Web-App-Django.git
 
 ### Installing from ZIP Archive
 
-1. Download the zip file <a href="https://github.com/NAHIAN-19/Todo-List-Django/blob/main/Todo_List.zip">Todo_List.zip</a>
+1. Download the zip file .
 2. Extract the ZIP archive to your desired location on your computer.
 3. Navigate to the project folder:
    --Right click on the project folder and 'Copy as path' and paste the path like below
